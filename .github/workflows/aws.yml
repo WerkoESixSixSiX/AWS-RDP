@@ -3,9 +3,9 @@ name: RDP_2019
 on: workflow_dispatch
 
 jobs:
-  build:
-    runs-on: windows-latest
-    timeout-minutes: 9999
+build:
+runs-on: windows-latest
+timeout-minutes: 9999
 
 
 
